@@ -11,6 +11,3 @@ if ($x == 100 && $y == 80) {
 }
 print "Program selesai";
 ?>  
-
-</body>
-</html>
