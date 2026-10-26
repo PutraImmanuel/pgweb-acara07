@@ -3,7 +3,7 @@
     echo "Selamat datang " .$pesan;
 
     $players = array("Pessi","Penaldo","Kylian Frappe");
-    echo $players[2];
+    echo $players[1];
 
     //$x = $x + $y;
     //$x += $y;

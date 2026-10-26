@@ -1,6 +1,6 @@
 <?php
 $x = 100;  
-$y = 50;
+$y = 80;
 
 if ($x == 100 && $y == 80) {
     echo "Masuk sini <br>";

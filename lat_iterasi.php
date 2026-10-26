@@ -15,11 +15,11 @@
 
     $colors = array("red", "green", "blue", "yellow");
 
-    foreach ($colors as $value) {
-        echo "$value <br>";
-    }
+    //foreach ($colors as $value) {
+        //echo "$value <br>";
+    //}
 
-    for($i=0; $i<3; $i++) {
+    for($i=0; $i<=2; $i++) {
         echo $colors [$i]."<br>";
     }   
 ?>
